@@ -39,7 +39,11 @@ streamlit run app.py
 
 Your browser will open at `http://localhost:8501`.
 
-## 4. Use it
+## 4. Demo video
+
+Working demo video: https://drive.google.com/file/d/1KRZ9ZK6hjrdG2ePc38aDaEgvh0R8AB0F/view?usp=drivesdk
+
+## 5. Use it
 
 1. Pick a personality from the sidebar.
 2. Type a message in the chat box at the bottom.
